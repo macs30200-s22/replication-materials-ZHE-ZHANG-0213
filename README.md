@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6496549.svg)](https://doi.org/10.5281/zenodo.6496549)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6498019.svg)](https://doi.org/10.5281/zenodo.6498019)
 
 # MACS 30200 "Perspectives on Computational Research": Major industry-wide and sub-industry-wide changes in interview questions during the Covid-19
 
