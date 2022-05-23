@@ -8,6 +8,16 @@ Author: Zhe Zhang
 
 Due to the epidemic, remote is becoming more and more a work option for companies, and the effect of remote work varies for different companies. For the IT industry, the impact may not be significant. For financial companies, it is more difficult for employees to maintain their relationships with customers than before because of remote work. And the timing of full remote working varies from company to company, with IT being the first, and traditional consumer goods being largely unavailable for remote working. I wanted to verify that "for most companies, remote work actually affected (positively/negatively) the company's growth" by examining company interview questions at different times during the epidemic. I also tried to summarize the impact of remote work for different types of companies and their respective attitudes towards remote work.
 
+## How do I use the code in this product
+
+- python3
+Depend on third-party libraries: lxml, playwright
+Both can be installed directly with pip
+Note: playwright needs to be installed for the first time by running the command python -m playwright install
+And then open the required crawling interface in the google driver browser, run the command python crawling.py
+- Reproduce the analysis process.
+Please open Initial analysis for XXX.ipynb and run the lines of code in order.
+
 ## Collect the Data
 
 - The files used to scrap the data from Glassdoor are saved in folder `project/Communication_and_high_tech`;`Consumer_Discretionary_and_traditional`;`Consumer_Financials_and_Services`. 
